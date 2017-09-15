@@ -2,7 +2,7 @@
 
 *Iterative Method*
 
-The program contains two functions namely “populate_matrix” and multiply_matrix. The function “populate_matrix” feeds two 2x2 matrices with random numbers and returns an array with all the numbers stored in both matrices. Then we call multiply_matrix and  pass the returned array in it. This returns the final multiplied matrix.
+The program contains two functions namely “populate_matrix” and multiply_matrix. The function “populate_matrix” feeds two 2x2 matrices with random numbers and returns an array with all the numbers stored in both matrices. Then call multiply_matrix and  pass the returned array in it. This returns the final multiplied matrix.
 
 *Strassen’s Multiplication*
 
